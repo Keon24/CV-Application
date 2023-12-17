@@ -1,0 +1,28 @@
+.educationdisplay-container {
+
+    margin-right: 20px;
+  margin-top: 30px;
+  background-color: #A9B388;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  background: linear-gradient(#FBF6EE, #FFB534);
+
+}
+
+.educationdisplay-container h2 {
+    margin-left: 200px;
+}
+
+.educationdisplay-container input {
+    width: 70%;
+    border-radius: 20px;
+    padding: 5px;
+    margin-left: 70px;
+}
+
+.educationdisplay-container form {
+  display: flex;
+  flex-direction: column;
+  gap:10px
+}

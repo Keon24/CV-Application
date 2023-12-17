@@ -1,0 +1,26 @@
+.data-container {
+  margin-right: 20px;
+  margin-top: 30px;
+  background-color: #FBF6EE;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(#FBF6EE, #FFB534);
+
+}
+
+.data-container h2 {
+  margin-left: 240px;
+}
+.data-container input {
+  width: 80%;
+  padding:6px;
+  border-radius: 20px;
+  margin-left: 50px;
+}
+
+.data-container form {
+  display:flex;
+  flex-direction: column;
+  gap:10px;
+}

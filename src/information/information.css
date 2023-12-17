@@ -1,0 +1,37 @@
+.information-container {
+  margin-right: 20px;
+  margin-left: 100px;
+  margin-top: 30px;
+  background-color: #FBF6EE;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(#FBF6EE, #FFB534);
+}
+
+.information-container h2 {
+margin-left: 120px;
+}
+
+.information-container input {
+  width:80%;
+  padding: 8px;
+  border-radius: 20px;
+  margin-left: 20px;
+}
+
+.information-container form{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-radius: 50px;
+}
+
+.information-container button {
+  width: 50%;
+  padding:3px;
+  border-radius: 20px;
+  margin-left: 120px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  background: linear-gradient(#FBF6EE, #FFB534);
+}

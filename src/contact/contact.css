@@ -1,0 +1,25 @@
+.contact-container {
+    margin-left: 100px;
+    margin-right: 20px;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #FBF6EE;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(#FBF6EE, #FFB534);
+}
+
+.contact-container h2 {
+    margin-left: 150px;
+}
+
+.contact-container form {
+    display:flex;
+    flex-direction: column;
+    gap:10px;
+}
+
+.contact-container input {
+    width: 70%;
+    padding: 5px;
+    border-radius: 10px;
+}
