@@ -3,7 +3,7 @@ import './display.css'
 
 const infoDisplay = ({displayedData}) => {
   return (
-    <div className='data-container' >
+    <div className='data-containers' >
       <h2>Information</h2>
       <form>
         <label>
