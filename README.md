@@ -1,4 +1,4 @@
-# Accidently delted commits
+# Accidently deleted commits
 CLick Project Below
 
  [http://localhost:3000](http://localhost:3000) 
