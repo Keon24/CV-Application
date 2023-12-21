@@ -1,5 +1,5 @@
 # Accidently deleted commits
-Click Link to view
+Click link to view
 
 My CV Application
  [http://localhost:3000](http://localhost:3000) 
