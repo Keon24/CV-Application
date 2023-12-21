@@ -1,5 +1,5 @@
 {
-  "homepage": "https://keon24.github.io/cv-application/index.html",
+  "homepage": "https://keon24.github.io/cv-application",
   "name": "cv-application",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && mv build/* docs/ && mv build/index.html docs/index.html",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
