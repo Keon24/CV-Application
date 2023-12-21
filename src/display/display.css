@@ -1,4 +1,4 @@
-.data-container {
+.data-containers {
   margin-right: 20px;
   margin-top: 30px;
   background-color: #FBF6EE;
@@ -9,17 +9,17 @@
 
 }
 
-.data-container h2 {
+.data-containers h2 {
   margin-left: 240px;
 }
-.data-container input {
+.data-containers input {
   width: 80%;
   padding:6px;
   border-radius: 20px;
   margin-left: 50px;
 }
 
-.data-container form {
+.data-containers form {
   display:flex;
   flex-direction: column;
   gap:10px;
