@@ -1,8 +1,8 @@
-# Accidently deleted commits
-Click link to view
+# CV Application
+Note: Previous Commits were deleted
 
-My CV Application
- [http://localhost:3000](http://localhost:3000) 
+Click link
+ [https://keon24.github.io/cv-application/]
 
 Welcome to my CV Application! This React-based project serves as a dynamic and interactive online resume. The application is designed to showcase various sections of my professional profile, including personal information, experience, skills, education, and contact details.
 
