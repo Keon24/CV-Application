@@ -1,7 +1,6 @@
 # CV Application
-Note: Previous Commits were deleted
+Note: Previous Commits were deleted 
 
-Click link
  [https://keon24.github.io/cv-application/]
 
 Welcome to my CV Application! This React-based project serves as a dynamic and interactive online resume. The application is designed to showcase various sections of my professional profile, including personal information, experience, skills, education, and contact details.
